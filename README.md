@@ -77,15 +77,3 @@
 5. Check the box beside the addon name to enable it.
 </details>
 
-<details>
-<summary><b>Developer Installation (Symlink via Terminal)</b></summary>
-<br>
-
-To test or develop features live without repeatedly re-zipping:
-
-```bash
-# Clone the repository
-git clone [https://github.com/Dinesh0N/](https://github.com/Dinesh0N/)<addon-name>.git
-
-# Create a symlink into your Blender scripts directory
-ln -s "$(pwd)/<addon-name>" "$HOME/.config/blender/5.2/scripts/addons/<addon-name>"
