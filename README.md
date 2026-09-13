@@ -37,6 +37,7 @@
 | **04** | **B_Onion_Skin** | Frame-by-frame ghosting and motion trail overlays for pose continuity. | [Repo ↗](https://github.com/Dinesh0N/B_Onion_Skin) |
 | **05** | **B_Marker-Man** | Marker organizer for tracking dialogue beats, shot cuts, and scene cues. | [Repo ↗](https://github.com/Dinesh0N/B_Marker-Man) |
 | **06** | **Selection Sets Extra** | Advanced selection grouping and batch selection tools for complex rigs. | [Repo ↗](https://github.com/Dinesh0N/selection_sets_extra-Addon) |
+| **07** | **B Hair ShapeKey** | Direct Hair Curves Shape Keys with Keyframing, Drivers. | [Repo ↗](https://github.com/Dinesh0N/B-Hair-ShapeKey) |
 
 #### 🎵 Audio & Sequencer (VSE)
 
